@@ -29,3 +29,5 @@
 <img src="/Telas/RestaurantesDaFranquia.jpeg" width='800'></img>
 # - Notificações:
 <img src="/Telas/Notificacoes.jpeg" width='800'></img>
+#
+# - Casos de Uso: [PDF](https://drive.google.com/file/d/14hMEXuZ-tgXU2tXG3-cRchcEO9MYJbAU/view?usp=sharing)
