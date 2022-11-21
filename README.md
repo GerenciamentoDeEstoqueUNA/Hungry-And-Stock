@@ -12,7 +12,7 @@
 - Alexandre Gonçalves
 - Giovane
 #
-## ⮞ REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS: [POWER POINT](https://docs.google.com/presentation/d/17C2tLgwTp6qBryeE78FDjYT1muRtIL1D/edit?usp=sharing&ouid=110729681681874716441&rtpof=true&sd=true)
+## ⮞ ENGENHARIA DE REQUISITOS COMPLETA: [POWER POINT](https://docs.google.com/presentation/d/17C2tLgwTp6qBryeE78FDjYT1muRtIL1D/edit?usp=sharing&ouid=110729681681874716441&rtpof=true&sd=true)
 # ⮞ Telas >>>
 # - Login:
 <img src="/Telas/Login.jpeg" width='800'></img>
