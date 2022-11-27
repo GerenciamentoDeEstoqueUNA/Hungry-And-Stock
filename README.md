@@ -2,7 +2,7 @@
 #
 # <img align="center" src="HUNGRY&STOCK.png" alt="drawing" width="200"></img> 
 # ⮞ HUNGRY & STOCK 
-### • Trabalho de engenharia de requisitos desenvolvido para a faculdade de ciências da computação. O objetivo é desenvolver todo um projeto de programação passando por todas etapas da engenharia de requisitos exigidas pelo mercado.
+### • Trabalho de engenharia de requisitos desenvolvido para a faculdade de ciências da computação. O objetivo é desenvolver todo um projeto de sotware passando por todas etapas da engenharia de requisitos exigidas pelo mercado.
 ### • Sobre a HUNGRY & STOCK: É um software desenvolvido com o objetivo principal de controle de estoque de uma forma automática.
 #
 # ⮞ Integrantes:
