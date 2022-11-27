@@ -13,4 +13,3 @@
 - Giovane
 #
 ## ⮞ ENGENHARIA DE REQUISITOS COMPLETA: [POWER POINT](https://docs.google.com/presentation/d/1G4VmXSYs07mk-4fR79A03lG5XnNYFZoi/edit?usp=share_link&ouid=110729681681874716441&rtpof=true&sd=true)
-# - Casos de Uso: [PDF](https://drive.google.com/file/d/14hMEXuZ-tgXU2tXG3-cRchcEO9MYJbAU/view?usp=sharing)
