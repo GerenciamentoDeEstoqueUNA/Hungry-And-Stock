@@ -12,22 +12,5 @@
 - Alexandre Gonçalves
 - Giovane
 #
-## ⮞ ENGENHARIA DE REQUISITOS COMPLETA: [POWER POINT](https://docs.google.com/presentation/d/17C2tLgwTp6qBryeE78FDjYT1muRtIL1D/edit?usp=sharing&ouid=110729681681874716441&rtpof=true&sd=true)
-# ⮞ Telas >>>
-# - Login:
-<img src="/Telas/Login.jpeg" width='800'></img>
-# - Estoque:
-<img src="/Telas/Estoque.jpeg" width='800'></img>
-<img src="/Telas/Estoque2.jpeg" width='800'></img>
-# - Receitas:
-<img src="/Telas/Receitas.jpeg" width='800'></img>
-# - Pedidos: 
-<img src="/Telas/Pedidos.jpeg" width='800'></img>
-# - Relatório:
-<img src="/Telas/Relatório.jpeg" width='800'></img>
-# - Restaurantes:
-<img src="/Telas/RestaurantesDaFranquia.jpeg" width='800'></img>
-# - Notificações:
-<img src="/Telas/Notificacoes.jpeg" width='800'></img>
-#
+## ⮞ ENGENHARIA DE REQUISITOS COMPLETA: [POWER POINT](https://docs.google.com/presentation/d/1G4VmXSYs07mk-4fR79A03lG5XnNYFZoi/edit?usp=share_link&ouid=110729681681874716441&rtpof=true&sd=true)
 # - Casos de Uso: [PDF](https://drive.google.com/file/d/14hMEXuZ-tgXU2tXG3-cRchcEO9MYJbAU/view?usp=sharing)
